@@ -1,3 +1,3 @@
-# 用go实现数据结构
+# data-structure
 
 有空就写。。
